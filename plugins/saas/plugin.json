@@ -1,0 +1,9 @@
+{
+    "name": "Saas Core",
+    "location": "saas",
+    "namespace": "Plugin\\Saas\\",
+    "version": "1.0.2",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Saas plugin Of TL-Commerce Saas"
+}

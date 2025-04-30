@@ -1,0 +1,6 @@
+1. Do following while using saas plugins to any laravel project
+autoload": {
+        "psr-4": {
+            "League\\Csv\\": "plugins/saas/vendor/league/csv/src/"
+        }
+}
